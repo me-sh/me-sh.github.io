@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Meshulam | </title>
+    <link>https://me-sh.github.io/author/m.-meshulam/</link>
+      <atom:link href="https://me-sh.github.io/author/m.-meshulam/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Meshulam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Meshulam</title>
+      <link>https://me-sh.github.io/author/m.-meshulam/</link>
+    </image>
+    
+    <item>
+      <title>Selectivity of audiovisual ECoG responses revealed under naturalistic stimuli in the human cortex</title>
+      <link>https://me-sh.github.io/publication/meshulam-selectivity-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/publication/meshulam-selectivity-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

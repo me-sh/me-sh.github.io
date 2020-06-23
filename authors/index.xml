@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>https://me-sh.github.io/authors/</link>
+      <atom:link href="https://me-sh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://me-sh.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Ashley Chang</title>
+      <link>https://me-sh.github.io/author/ashley-chang/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/ashley-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Micciche</title>
+      <link>https://me-sh.github.io/author/emily-micciche/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/emily-micciche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanna Hillman</title>
+      <link>https://me-sh.github.io/author/hanna-hillman/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/hanna-hillman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth A. Norman</title>
+      <link>https://me-sh.github.io/author/kenneth-a.-norman/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/kenneth-a.-norman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liat Hasenfratz</title>
+      <link>https://me-sh.github.io/author/liat-hasenfratz/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/liat-hasenfratz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mai Nguyen</title>
+      <link>https://me-sh.github.io/author/mai-nguyen/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/mai-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meir Meshulam</title>
+      <link>https://me-sh.github.io/author/meir-meshulam/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/meir-meshulam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel A. Nastase</title>
+      <link>https://me-sh.github.io/author/samuel-a.-nastase/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/samuel-a.-nastase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uri Hasson</title>
+      <link>https://me-sh.github.io/author/uri-hasson/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/uri-hasson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yun-Fei Liu</title>
+      <link>https://me-sh.github.io/author/yun-fei-liu/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/yun-fei-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashesh Mehta</title>
+      <link>https://me-sh.github.io/author/ashesh-mehta/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/ashesh-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corey J. Keller</title>
+      <link>https://me-sh.github.io/author/corey-j.-keller/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/corey-j.-keller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Groppe</title>
+      <link>https://me-sh.github.io/author/david-groppe/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/david-groppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michal Harel</title>
+      <link>https://me-sh.github.io/author/michal-harel/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/michal-harel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Mégevand</title>
+      <link>https://me-sh.github.io/author/pierre-megevand/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/pierre-megevand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Malach</title>
+      <link>https://me-sh.github.io/author/rafael-malach/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/rafael-malach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tal Golan</title>
+      <link>https://me-sh.github.io/author/tal-golan/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/tal-golan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashesh D Mehta</title>
+      <link>https://me-sh.github.io/author/ashesh-d-mehta/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/ashesh-d-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles E Schroeder</title>
+      <link>https://me-sh.github.io/author/charles-e-schroeder/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/charles-e-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David M Groppe</title>
+      <link>https://me-sh.github.io/author/david-m-groppe/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/david-m-groppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin M Yeagle</title>
+      <link>https://me-sh.github.io/author/erin-m-yeagle/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/erin-m-yeagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ido Davidesco</title>
+      <link>https://me-sh.github.io/author/ido-davidesco/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/ido-davidesco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon Y Deouell</title>
+      <link>https://me-sh.github.io/author/leon-y-deouell/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/leon-y-deouell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucia Melloni</title>
+      <link>https://me-sh.github.io/author/lucia-melloni/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/lucia-melloni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew S Goldfinger</title>
+      <link>https://me-sh.github.io/author/matthew-s-goldfinger/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/matthew-s-goldfinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Andelman</title>
+      <link>https://me-sh.github.io/author/f.-andelman/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/f.-andelman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Fried</title>
+      <link>https://me-sh.github.io/author/i.-fried/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/i.-fried/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Harel</title>
+      <link>https://me-sh.github.io/author/m.-harel/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/m.-harel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Meshulam</title>
+      <link>https://me-sh.github.io/author/m.-meshulam/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/m.-meshulam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Ramot</title>
+      <link>https://me-sh.github.io/author/m.-ramot/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/m.-ramot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Y. Neufeld</title>
+      <link>https://me-sh.github.io/author/m.-y.-neufeld/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/m.-y.-neufeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Malach</title>
+      <link>https://me-sh.github.io/author/r.-malach/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/r.-malach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Kipervasser</title>
+      <link>https://me-sh.github.io/author/s.-kipervasser/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/s.-kipervasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Kramer</title>
+      <link>https://me-sh.github.io/author/u.-kramer/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/u.-kramer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyal Winter</title>
+      <link>https://me-sh.github.io/author/eyal-winter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/eyal-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gershon Ben-Shakhar</title>
+      <link>https://me-sh.github.io/author/gershon-ben-shakhar/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/gershon-ben-shakhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Itzhak Aharon</title>
+      <link>https://me-sh.github.io/author/itzhak-aharon/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/itzhak-aharon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adi Mizrahi</title>
+      <link>https://me-sh.github.io/author/adi-mizrahi/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/adi-mizrahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hagit Kopel</title>
+      <link>https://me-sh.github.io/author/hagit-kopel/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/hagit-kopel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meir Meshulam</title>
+      <link>https://me-sh.github.io/author/meir-meshulam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/author/meir-meshulam/</guid>
+      <description>&lt;p&gt;I am fascinated with &lt;strong&gt;human learning&lt;/strong&gt; and with &lt;strong&gt;machine learning&lt;/strong&gt;, which hold so much promise for each other. At Princeton, I develop tools for improving real-world learning using neuroimaging and computational methods. Previously, as a machine learning algorithm developer, I designed data analysis systems inspired by human cognition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

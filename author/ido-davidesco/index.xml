@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ido Davidesco | </title>
+    <link>https://me-sh.github.io/author/ido-davidesco/</link>
+      <atom:link href="https://me-sh.github.io/author/ido-davidesco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ido Davidesco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>Ido Davidesco</title>
+      <link>https://me-sh.github.io/author/ido-davidesco/</link>
+    </image>
+    
+    <item>
+      <title>Increasing suppression of saccade-related transients along the human visual hierarchy</title>
+      <link>https://me-sh.github.io/publication/golan-increasing-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/publication/golan-increasing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human intracranial recordings link suppressed transients rather than &#39;filling-in&#39; to perceptual continuity across blinks</title>
+      <link>https://me-sh.github.io/publication/golan-human-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://me-sh.github.io/publication/golan-human-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
