@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Meir Meshulam&#39;s personal webpage</title>
     <link>https://me-sh.github.io/</link>
       <atom:link href="https://me-sh.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
+    <description>Meir Meshulam&#39;s personal webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2020 16:47:49 -0400</lastBuildDate>
     <image>
       <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
-      <title></title>
+      <title>Meir Meshulam&#39;s personal webpage</title>
       <link>https://me-sh.github.io/</link>
     </image>
     
