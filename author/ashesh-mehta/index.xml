@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashesh Mehta | </title>
+    <title>Ashesh Mehta on </title>
     <link>https://me-sh.github.io/author/ashesh-mehta/</link>
-      <atom:link href="https://me-sh.github.io/author/ashesh-mehta/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ashesh Mehta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
-      <title>Ashesh Mehta</title>
-      <link>https://me-sh.github.io/author/ashesh-mehta/</link>
-    </image>
+    <description>Recent content in Ashesh Mehta on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://me-sh.github.io/author/ashesh-mehta/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Repeated performance in problem-solving tasks attenuates human cortical responses</title>
       <link>https://me-sh.github.io/publication/meshulam-repeated-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://me-sh.github.io/publication/meshulam-repeated-2017/</guid>
       <description></description>
     </item>
