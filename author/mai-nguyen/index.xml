@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mai Nguyen on </title>
+    <title>Mai Nguyen | </title>
     <link>https://me-sh.github.io/author/mai-nguyen/</link>
-    <description>Recent content in Mai Nguyen on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://me-sh.github.io/author/mai-nguyen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://me-sh.github.io/author/mai-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mai Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>Mai Nguyen</title>
+      <link>https://me-sh.github.io/author/mai-nguyen/</link>
+    </image>
     
     <item>
       <title>Teacher-student neural coupling during teaching and learning</title>
       <link>https://me-sh.github.io/publication/nguyen-teacher-student-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://me-sh.github.io/publication/nguyen-teacher-student-2020/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Think Like an Expert: Neural Alignment Predicts Understanding in Students Taking an Introduction to Computer Science Course</title>
       <link>https://me-sh.github.io/publication/meshulam-think-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://me-sh.github.io/publication/meshulam-think-2020/</guid>
       <description></description>
     </item>

@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on </title>
+    <title>Recent &amp; Upcoming Talks | </title>
     <link>https://me-sh.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://me-sh.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://me-sh.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://me-sh.github.io/talk/</link>
+    </image>
     
   </channel>
 </rss>

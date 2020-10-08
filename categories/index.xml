@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories | </title>
     <link>https://me-sh.github.io/categories/</link>
-    <description>Recent content in Categories on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://me-sh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://me-sh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://me-sh.github.io/images/icon_huc589c58cc7542a67b2b36dc423186a94_6549_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://me-sh.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>
